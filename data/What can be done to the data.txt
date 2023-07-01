@@ -1,0 +1,14 @@
+1. Which mode is providing max sales? (done)
+2. Which product is performing good? (done)
+3. Analysing products at sub-category level - sales and profit of each sub-category (----)
+
+4. Which segment buys the most products? (done)
+5. 10 best customers (done)
+
+6. Total profit of the bussiness (done)
+7. sales per week per year (----)
+8. sales per month per year and sales each year (done)
+
+9. Sales concentrated in which region? (done)
+10. Region-wise sub-category (----)
+12. Profits in cities (done)
